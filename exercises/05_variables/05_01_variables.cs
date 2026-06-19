@@ -29,9 +29,9 @@ namespace exercises
       Console.WriteLine("");
 
       // "bool" - stores values with two states: true or false.
-      bool myBool = false;
-      Console.WriteLine("The sky is green?");
+      bool myBool = true;
       Console.WriteLine(myBool);
+      Console.WriteLine("");
     }
   }
 }
